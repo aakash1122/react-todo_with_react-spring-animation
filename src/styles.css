@@ -1,0 +1,26 @@
+body {
+  color: #b53471;
+  background: #fbfbfb;
+}
+
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+input {
+  font-size: 26px !important;
+  height: 30px !important;
+  background: #fff !important;
+  border: none;
+}
+
+button {
+  padding: 8px 15px !important;
+  font-size: 20px !important;
+}
+p {
+  font-size: 23px;
+  font-weight: 400;
+  color: #3f3d3d;
+}
